@@ -1,0 +1,29 @@
+.scroll {
+    overflow: auto;
+    line-height: 1.3rem;
+    height: 7.5rem;
+    text-overflow: ellipsis;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    padding-right: 8px;
+}
+.scroll::-webkit-scrollbar {
+    width: 5px;
+
+}
+
+.scroll::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #ececec;
+}
+
+.scroll::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: #b1b1b1;
+    height: 10px;
+}
+​.scroll::-webkit-scrollbar-thumb:hover {
+    background: #3a3a3a;
+    border-radius: 10px;
+}
+
