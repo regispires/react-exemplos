@@ -34,7 +34,7 @@
     "history": "^4.7.2",
     "material-ui-phone-number": "^2.0.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.1",
     "react": "^16.8.6",
     "react-chartjs-2": "^2.7.4",
